@@ -26,7 +26,6 @@ nav.header-right {
 }
 
 /* modif pour tout les smartphones .. */
-/* old max-width: 376px */
 @media screen and (max-width: 480px) {
   html {
     padding: 26px 0 80px 0;
