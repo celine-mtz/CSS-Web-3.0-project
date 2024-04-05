@@ -29,6 +29,10 @@ header {
   list-style-type: none;
 }
 
+.header-right {
+  align-items: center;
+}
+
 .header-right ul a {
   text-decoration: none;
   color: rgba(94, 96, 122, 1);

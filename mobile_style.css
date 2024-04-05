@@ -5,6 +5,11 @@
   display: none;
   cursor: pointer;
   font-size: 2rem;
+  background-color: none;
+}
+
+nav.header-right {
+  align-self: center;
 }
 
 .header-right ul {
@@ -28,7 +33,6 @@
 
   .container {
       max-width: 343px;
-      /* margin: auto 0; */
   }
 
   /***** Header *****/
@@ -36,6 +40,7 @@
       width: 45px;
       height: 28px;
   }
+
   #hamburger {
       display: block;
   }
@@ -67,7 +72,6 @@
     grid-row: 1/2;
     width: 343px;
     height: 300px;
-    margin: auto;
   }
   
   .main-image img {
